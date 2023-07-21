@@ -280,6 +280,10 @@ i {
   transition: transform 0.2s;
   cursor: pointer;
 }
+.haircut .b3 {
+  width: 100%;
+  max-height: 315px;
+}
 
 .haircut img:hover {
   transform: scale(1.2);
